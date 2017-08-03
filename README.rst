@@ -7,6 +7,11 @@ question, visitors can choose between a fixed number of answers.
 
 Detailed documentation is in the "docs" directory.
 
+Installation
+------------
+python setup.py sdist
+pip install --user dist/django-polls-0.1.tar.gz
+
 Quick start
 -----------
 
